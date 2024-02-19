@@ -68,7 +68,6 @@ if __name__ == '__main__':
         elif m == "quit":
             break
         else:
-            for i in range(50):
              clt.sendMsg(m)
              
             
